@@ -33,8 +33,10 @@ only satisfaction.
 #### FrontEnd:
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Nextjs-%23282C34?style=flat-square&logo=nextjs)
 ![Angular](http://img.shields.io/badge/-Angular-CC0000?style=flat-square&logo=angular&logoColor=ffffff)
 ![Vue](http://img.shields.io/badge/-Vue-CC0000?style=flat-square&logo=vue&logoColor=ffffff)
+![Nuxt.js](https://img.shields.io/badge/-Nuxtjs-%23282C34?style=flat-square&logo=nuxtjs)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-%23282C34?style=flat-square&logo=materialui)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-CC0000?style=flat-square&logo=bootstrap)
 ![jQuery](http://img.shields.io/badge/-jQuery-CC0000?style=flat-square&logo=jquery)
