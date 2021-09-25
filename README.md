@@ -68,7 +68,7 @@ only satisfaction.
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-430098?style=flat-square&logo=amazon%20web%20services&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-430098?style=flat-square&logo=microsoft%20azure&logoColor=ffffff)
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-430098?style=flat-square&logo=microsoft%20azure&logoColor=ffffff)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-430098?style=flat-square&logo=google%20cloud%20platform&logoColor=ffffff)
 
 #### Blockchain
 
