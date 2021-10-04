@@ -79,6 +79,7 @@ only satisfaction.
 ![Dex](https://img.shields.io/badge/-Dex-336791?style=flat-square&logo=dex)
 ![Dapp](https://img.shields.io/badge/-Dapp-336791?style=flat-square&logo=Dapp)
 ![NFT](https://img.shields.io/badge/-NFT-336791?style=flat-square&logo=NFT)
+![Solana](https://img.shields.io/badge/-Solana-336791?style=flat-square&logo=Solana)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-336791?style=flat-square&logo=web3.js)
 
 #### Editors and Operating Systems:
