@@ -89,9 +89,9 @@ only satisfaction.
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 
 #### My projects
-![SpaceGrime](https://sitetest.spacegrime.finance/)
-![SummitSwap](https://summitswap.finance/)
-![MashaEvent](https://masha-event.herokuapp.com/)
+[@SpaceGrime](https://sitetest.spacegrime.finance/)
+[@SummitSwap](https://summitswap.finance/)
+[@MashaEvent](https://masha-event.herokuapp.com/)
 <hr/>
 
 :star: From [@Hiccup](https://github.com/hiccup1991)
