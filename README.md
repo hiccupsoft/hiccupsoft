@@ -12,7 +12,7 @@ sites and applications for more than 9 years, across virtually every industry.
 And I am a highly professional **Blockchain Developer** with core expertise in Frontend, Smart Contract 
 development, DEX, DAPP, NFT, setting up ICOs as well as developing wallet applications.
 
-Also I am an AWS Architect who is professional in all kinds of Amazon services such as Amazon
+Also I am an **AWS Architect** who is professional in all kinds of Amazon services such as Amazon
 Lambda, Amazon Amplify, Amazon Cognito, Amazon DynamoDB, Amazon ElasticSearch, Amazon
 Personalize and etc.
 
@@ -67,14 +67,14 @@ only satisfaction.
 ![Mongo](https://img.shields.io/badge/-Mongo-336791?style=flat-square&logo=mongo)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-336791?style=flat-square&logo=dynamodb)
 
-#### Cloud Services
+#### Cloud Services:
 
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-430098?style=flat-square&logo=amazon%20web%20services&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-430098?style=flat-square&logo=microsoft%20azure&logoColor=ffffff)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-430098?style=flat-square&logo=google%20cloud%20platform&logoColor=ffffff)
 
-#### Blockchain
+#### Blockchain:
 
 ![Solidity](https://img.shields.io/badge/-Solidty-336791?style=flat-square&logo=solidity)
 ![Rust](https://img.shields.io/badge/-Rust-336791?style=flat-square&logo=rust)
@@ -90,7 +90,8 @@ only satisfaction.
 ![Eclipse](http://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 
-#### My projects
+#### My projects:
+
 [SpaceGrime](https://sitetest.spacegrime.finance/)<br>
 [SummitSwap](https://summitswap.finance/)<br>
 [Fixel(Mobile Version)](https://fixel.co.za/)<br>
