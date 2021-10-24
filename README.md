@@ -6,10 +6,10 @@ Hey there! :smile:
 
 ![](https://komarev.com/ghpvc/?username=hiccup1991&label=PROFILE+VIEWS&color=brightgreen)
 
-I am a <strong>Full Stack Web Developer</strong> who has been developing web and mobile
+I am a **Full Stack Web Developer** who has been developing web and mobile
 sites and applications for more than 9 years, across virtually every industry.
 
-And I am a highly professional Blockchain Developer with core expertise in Frontend, Smart Contract 
+And I am a highly professional **Blockchain Developer** with core expertise in Frontend, Smart Contract 
 development, DEX, DAPP, NFT, setting up ICOs as well as developing wallet applications.
 
 Also I am an AWS Architect who is professional in all kinds of Amazon services such as Amazon
@@ -94,11 +94,11 @@ only satisfaction.
 [SpaceGrime](https://sitetest.spacegrime.finance/)<br>
 [SummitSwap](https://summitswap.finance/)<br>
 [Fixel(Mobile Version)](https://fixel.co.za/)<br>
-[MashaEvent](https://masha-event.herokuapp.com/)<br>
-[Squibler](https://www.squibler.io/)<br>
-[Telos](https://app.telos.net/)<br>
-[Koda](https://koda.finance)<br>
-[Sign Art](https://mainnet.sign-art.app/)<br>
+[MashaEvent](https://masha-event.herokuapp.com/).
+[Squibler](https://www.squibler.io/).
+[Telos](https://app.telos.net/).
+[Koda](https://koda.finance).
+[Sign Art](https://mainnet.sign-art.app/).
 <hr/>
 
 :star: From [@Hiccup](https://github.com/hiccup1991)
