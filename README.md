@@ -103,6 +103,4 @@ only satisfaction.
 
 <hr/>
 
-![My github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=hiccup1991)
-
 :star: From [@Hiccup](https://github.com/hiccup1991)
