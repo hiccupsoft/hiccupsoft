@@ -91,7 +91,12 @@ only satisfaction.
 #### My projects
 [@SpaceGrime](https://sitetest.spacegrime.finance/)
 [@SummitSwap](https://summitswap.finance/)
+[@Fixel(Mobile Version)](https://fixel.co.za/)
 [@MashaEvent](https://masha-event.herokuapp.com/)
+[@Squibler](https://www.squibler.io/)
+[@Telos](https://app.telos.net/)
+[@Koda](https://koda.finance)
+[@Sign Art](https://mainnet.sign-art.app/)
 <hr/>
 
 :star: From [@Hiccup](https://github.com/hiccup1991)
