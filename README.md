@@ -6,7 +6,7 @@ Hey there! :smile:
 
 ![](https://komarev.com/ghpvc/?username=hiccup1991&label=PROFILE+VIEWS&color=brightgreen)
 
-I am a Full Stack Web Developer who has been developing web and mobile
+I am a <strong>Full Stack Web Developer</strong> who has been developing web and mobile
 sites and applications for more than 9 years, across virtually every industry.
 
 And I am a highly professional Blockchain Developer with core expertise in Frontend, Smart Contract 
