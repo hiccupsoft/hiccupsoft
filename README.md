@@ -1,4 +1,4 @@
-<h1 align="center"> Hey !!!!!! Full Stack Developer and Blockchain Developer</h1>
+<h1 align="center">Full Stack Developer and Blockchain Developer</h1>
 
 ## About Me :wave:
 
