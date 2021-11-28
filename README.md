@@ -83,6 +83,7 @@ only satisfaction.
 ![NFT](https://img.shields.io/badge/-NFT-336791?style=flat-square&logo=NFT)
 ![Solana](https://img.shields.io/badge/-Solana-336791?style=flat-square&logo=Solana)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-336791?style=flat-square&logo=web3.js)
+![Solana.js](https://img.shields.io/badge/-Solana.js-336791?style=flat-square&logo=solana.js)
 
 #### Editors and Operating Systems:
 
