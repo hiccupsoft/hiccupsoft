@@ -108,4 +108,4 @@ only satisfaction.
 
 <hr/>
 
-:star: From [@Hiccup](https://github.com/hiccup1991)
+:star: From [@Hiccup](https://github.com/hiccupsoft)
