@@ -2,7 +2,6 @@
 
 ## About Me :wave:
 
-Hi Don!
 Hey there! :smile: 
 
 ![](https://komarev.com/ghpvc/?username=hiccup1991&label=PROFILE+VIEWS&color=brightgreen)
