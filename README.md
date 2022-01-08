@@ -1,7 +1,7 @@
 <h1 align="center">Full Stack Developer and Blockchain Developer</h1>
 
 ## About Me :wave:
-![](https://komarev.com/ghpvc/?username=hiccupsoft&label=PROFILE+VIEWS&color=brightgreen)
+
 Hey there! :smile: 
 
 ![](https://komarev.com/ghpvc/?username=hiccup1991&label=PROFILE+VIEWS&color=brightgreen)
