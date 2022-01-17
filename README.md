@@ -99,6 +99,7 @@ only satisfaction.
 
 [SpaceGrime](https://sitetest.spacegrime.finance/)<br>
 [Avenger](https://avenger-coin.vercel.app)<br>
+[Whales](https://whales-nft.vercel.app/)<br>
 [SummitSwap](https://summitswap.finance/)<br>
 [Fixel(Mobile Version)](https://fixel.co.za/)<br>
 [MashaEvent](https://masha-event.herokuapp.com/)<br>
