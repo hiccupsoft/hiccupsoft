@@ -97,19 +97,18 @@ only satisfaction.
 
 #### My projects:
 
-[SpaceGrime](https://sitetest.spacegrime.finance/)<br>
 [MoonPool](https://moonpool.finance/)<br>
 [Avenger](https://avenger-coin.vercel.app)<br>
-[Whales](https://whales-nft.vercel.app/)<br>
 [WardenSwap](https://wardenswap.netlify.app/)<br>
-[SummitSwap](https://summitswap.finance/)<br>
 [Fixel(Mobile Version)](https://fixel.co.za/)<br>
-[MashaEvent](https://masha-event.herokuapp.com/)<br>
 [AvaxNodes](https://avaxnodes.com/)<br>
 [Squibler](https://www.squibler.io/)<br>
 [Sign Art](https://mainnet.sign-art.app/)<br>
 [Telos](https://app.telos.net/)<br>
+[MashaEvent](https://masha-event.herokuapp.com/)<br>
 [Koda](https://koda.finance)<br>
+[SpaceGrime](https://sitetest.spacegrime.finance/)<br>
+[Whales](https://whales-nft.vercel.app/)<br>
 
 <hr/>
 
