@@ -9,8 +9,7 @@ Hey there! :smile:
 I am a **Full Stack Web Developer** who has been developing web and mobile
 sites and applications for more than 9 years, across virtually every industry.
 
-And I am a highly professional **Blockchain Developer** with core expertise in Frontend, Smart Contract 
-development, DEX, DAPP, NFT, setting up ICOs as well as developing wallet applications.
+And I am a highly professional **Blockchain Developer** with core expertise in developing DEX, NFT, DEFI, Bridge as well as wallet applications.
 
 Also I am an **AWS Architect** who is professional in all kinds of Amazon services such as Amazon
 Lambda, Amazon Amplify, Amazon Cognito, Amazon DynamoDB, Amazon ElasticSearch, Amazon
