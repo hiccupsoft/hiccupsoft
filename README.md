@@ -99,7 +99,7 @@ only satisfaction.
 
 #### My projects:
 
-[Ariva Wonderland][https://ariva.travel/]<br>
+[Ariva Wonderland]([https://ariva.travel/])<br>
 [MoonPool](https://moonpool.finance/)<br>
 [WOOF](https://swap.woofsolana.io/swap)<br>
 [Avenger](https://avenger-coin.vercel.app)<br>
