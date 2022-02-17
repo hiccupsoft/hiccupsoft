@@ -92,23 +92,27 @@ only satisfaction.
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+![Microsoft Visual Studio](http://img.shields.io/badge/-Visual%20Studio-1A0DAB?style=flat-square&logo=visual-studio&logoColor=ffffff)
+![Ubunut](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=ubunut&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=windows&logoColor=ffffff)
+![MacOS](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=macos&logoColor=ffffff)
 
 #### My projects:
 
+[Ariva Wonderland][https://ariva.travel/]<br>
 [MoonPool](https://moonpool.finance/)<br>
-[Avenger](https://avenger-coin.vercel.app)<br>
 [WOOF](https://swap.woofsolana.io/swap)<br>
+[Avenger](https://avenger-coin.vercel.app)<br>
 [WardenSwap](https://wardenswap.netlify.app/)<br>
+[GatherSwap](https://gatherswap.netlify.app/swap/)<br>
 [Fixel(Mobile Version)](https://fixel.co.za/)<br>
 [AvaxNodes](https://avaxnodes.com/)<br>
-[Squibler](https://www.squibler.io/)<br>
 [Sign Art](https://mainnet.sign-art.app/)<br>
 [Telos](https://app.telos.net/)<br>
-[MashaEvent](https://masha-event.herokuapp.com/)<br>
 [Koda](https://koda.finance)<br>
 [SpaceGrime](https://sitetest.spacegrime.finance/)<br>
 [Whales](https://whales-nft.vercel.app/)<br>
+[Squibler](https://www.squibler.io/)<br>
 
 <hr/>
 
