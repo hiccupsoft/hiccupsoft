@@ -106,7 +106,6 @@ only satisfaction.
 [WOOF](https://swap.woofsolana.io/swap)<br>
 [Avenger](https://avenger-coin.vercel.app)<br>
 [WardenSwap](https://wardenswap.netlify.app/)<br>
-[GatherSwap](https://gatherswap.netlify.app/swap/)<br>
 [Fixel(Mobile Version)](https://fixel.co.za/)<br>
 [AvaxNodes](https://avaxnodes.com/)<br>
 [Sign Art](https://mainnet.sign-art.app/)<br>
