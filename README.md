@@ -93,9 +93,9 @@ only satisfaction.
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Microsoft Visual Studio](http://img.shields.io/badge/-Visual%20Studio-1A0DAB?style=flat-square&logo=visual-studio&logoColor=ffffff)
-![Ubunut](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=ubunut&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=windows&logoColor=ffffff)
-![MacOS](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=macos&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubunut&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-A81D33?style=flat-square&logo=windows&logoColor=ffffff)
+![MacOS](http://img.shields.io/badge/-MacOS-A81D33?style=flat-square&logo=macos&logoColor=ffffff)
 
 #### My projects:
 
