@@ -100,20 +100,21 @@ only satisfaction.
 #### My projects:
 
 [Ariva Wonderland](https://ariva.game/)<br>
-[MoonPool](https://moonpool.finance/)<br>
+[DigitalEyes Market](https://digitaleyes.market/)<br>
 [Ragnarok](https://www.worldofragnarok.online/)<br>
 [Mnemosyne Portsy AR](https://www.themnemosyne.xyz/)<br>
 [WOOF](https://swap.woofsolana.io/swap)<br>
+[Sign Art](https://mainnet.sign-art.app/)<br>
+[Fixel(Mobile Version)](https://fixel.co.za/)<br>
+[Telos](https://app.telos.net/)<br>
+[AvaxNodes](https://avaxnodes.com/)<br>
+[Squibler](https://www.squibler.io/)<br>
+[Koda](https://koda.finance)<br>
+[MoonPool](https://moonpool.finance/)<br>
 [Avenger](https://avenger-coin.vercel.app)<br>
 [WardenSwap](https://wardenswap.netlify.app/)<br>
-[Fixel(Mobile Version)](https://fixel.co.za/)<br>
-[AvaxNodes](https://avaxnodes.com/)<br>
-[Sign Art](https://mainnet.sign-art.app/)<br>
-[Telos](https://app.telos.net/)<br>
-[Koda](https://koda.finance)<br>
 [SpaceGrime](https://sitetest.spacegrime.finance/)<br>
 [Whales](https://whales-nft.vercel.app/)<br>
-[Squibler](https://www.squibler.io/)<br>
 
 <hr/>
 
