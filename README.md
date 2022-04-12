@@ -104,7 +104,6 @@ only satisfaction.
 [Ragnarok](https://www.worldofragnarok.online/)<br>
 [MoonPool](https://moonpool.finance/)<br>
 [Mnemosyne Portsy AR](https://www.themnemosyne.xyz/)<br>
-[WOOF](https://swap.woofsolana.io/swap)<br>
 [Sign Art](https://mainnet.sign-art.app/)<br>
 [Fixel(Mobile Version)](https://fixel.co.za/)<br>
 [Telos](https://app.telos.net/)<br>
