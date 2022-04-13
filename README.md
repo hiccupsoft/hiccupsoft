@@ -6,6 +6,8 @@ Hey there! :smile:
 
 ![](https://komarev.com/ghpvc/?username=hiccup1991&label=PROFILE+VIEWS&color=brightgreen)
 
+<img src="https://github-readme-stats.vercel.app/api?username=hiccupsoft&show_icons=true&count_private=true" alt="hiccupsoft" />
+
 I am a **Full Stack Web Developer** who has been developing web and mobile
 sites and applications for more than 9 years, across virtually every industry.
 
