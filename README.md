@@ -119,4 +119,5 @@ only satisfaction.
 
 <hr/>
 
-:star: From [@Hiccup](https://github.com/hiccupsoft)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=hiccupsoft&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
