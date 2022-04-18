@@ -110,10 +110,8 @@ only satisfaction.
 [Mnemosyne Portsy AR](https://www.themnemosyne.xyz/)<br>
 [Sign Art](https://mainnet.sign-art.app/)<br>
 [Fixel(Mobile Version)](https://fixel.co.za/)<br>
-[Telos](https://app.telos.net/)<br>
 [AvaxNodes](https://avaxnodes.com/)<br>
 [Squibler](https://www.squibler.io/)<br>
-[Koda](https://koda.finance)<br>
 [Avenger](https://avenger-coin.vercel.app)<br>
 [WardenSwap](https://wardenswap.netlify.app/)<br>
 [SpaceGrime](https://sitetest.spacegrime.finance/)<br>
