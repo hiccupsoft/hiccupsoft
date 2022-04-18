@@ -11,7 +11,7 @@ Hey there! :smile:
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=hiccupsoft&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 I am a **Full Stack Web Developer** who has been developing web and mobile
-sites and applications for more than 9 years, across virtually every industry.
+sites and applications for more than 10 years, across virtually every industry.
 
 And I am a highly professional **Blockchain Developer** with core expertise in developing DEX, NFT, DEFI, Bridge as well as wallet applications.
 
