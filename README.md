@@ -105,7 +105,6 @@ only satisfaction.
 
 [Ariva Wonderland](https://ariva.game/)<br>
 [DigitalEyes Market](https://digitaleyes.market/)<br>
-[Ragnarok](https://www.worldofragnarok.online/)<br>
 [MoonPool](https://moonpool.finance/)<br>
 [Mnemosyne Portsy AR](https://www.themnemosyne.xyz/)<br>
 [Sign Art](https://mainnet.sign-art.app/)<br>
@@ -114,7 +113,5 @@ only satisfaction.
 [Squibler](https://www.squibler.io/)<br>
 [Avenger](https://avenger-coin.vercel.app)<br>
 [WardenSwap](https://wardenswap.netlify.app/)<br>
-[SpaceGrime](https://sitetest.spacegrime.finance/)<br>
-[Whales](https://whales-nft.vercel.app/)<br>
 
 <hr/>
