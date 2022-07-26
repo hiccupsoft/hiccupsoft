@@ -8,8 +8,6 @@ Hey there! :smile:
 
 <img src="https://github-readme-stats.vercel.app/api?username=hiccupsoft&show_icons=true&count_private=true" alt="hiccupsoft" />
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=hiccupsoft&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 I am a **Full Stack Web Developer** who has been developing web and mobile
 sites and applications for more than 10 years, across virtually every industry.
 
