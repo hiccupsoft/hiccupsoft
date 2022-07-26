@@ -103,6 +103,7 @@ only satisfaction.
 
 #### My projects:
 
+[ZigZag Exchange](https://trade.zigzag.exchange)<br>
 [Ariva Wonderland](https://ariva.game/)<br>
 [DigitalEyes Market](https://digitaleyes.market/)<br>
 [MoonPool](https://moonpool.finance/)<br>
